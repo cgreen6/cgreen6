@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cgreen6
 - 👀 I’m interested in Astrophysics, Coding and Music.
 - 🌱 I’m currently learning JavaScript, HTML and CSS.
-- 📫 How to reach me ... hoolio.suarez@gmail.com.
+- 📫 hoolio.suarez@gmail.com.
 
 <!---
 cgreen6/cgreen6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
