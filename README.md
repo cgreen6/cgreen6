@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @cgreen6
-- 👀 I’m interested in Astrophysics, Coding and Music.
 - 🌱 I’m currently learning JavaScript, HTML and CSS.
 - 📫 hoolio.suarez@gmail.com.
 
