@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cgreen6
-- 🌱 I’m currently learning JavaScript, HTML and CSS.
+- 🌱 I’m currently learning JavaScript, HTML, CSS and React.
 - 📫 hoolio.suarez@gmail.com.
 
 <!---
